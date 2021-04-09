@@ -65,8 +65,7 @@ Example:
 * Brian's __[his]__ girlfriend is Christina
 * Tefy, Grace, Brenda's __[their]__ teacher is Leonardo
 
-En su barba vivían tres <span style="color:red">cardenales</span>.
-
+#=- Stationary Store Moves -=#
 
 <https://www.leonardomedina.com.ec>
 
