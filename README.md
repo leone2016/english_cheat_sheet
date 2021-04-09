@@ -1,46 +1,71 @@
-# Getting Started with Create React App
+# Elementary english Cheat Sheet
+===
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##Alphabet
+...
 
-## Available Scripts
+...
+#The numbers
 
-In the project directory, you can run:
+...
 
-### `yarn start`
+...
+## ver to be [Personal Information]
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+...
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+...
+## Demonstrative Pronouns
 
-### `yarn test`
+## Rules for Plural nouns
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Rules for Plural nouns
 
-### `yarn build`
+## Adjetives
+describe people things and animals
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Action| Sign
+---:| :--- 
+__Affirmative__| s + `am_is_are` + adj
+__Negative__| s + `am_is_are`+__not__ + adj
+__Question__| `am_is_are`+ s + adj
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Examples:
+1. Is Spain beautiful?
+    * yes, It is beautiful
+2. are dogs clean?
+    * No, they aren't clean, they are dirty    
+### What ... Like?
+__What is Quito like ?__ 
+* Quito is big and clean and beautiful
+* It is gorgeous, but It's dangerous
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Possessive pronouns
+persona prop.| possessive
+---:| :--- 
+__I__| my
+__you__| your
+__he__| his
+__she__| her
+__it__| its
+__we__| our
+__you__| your
+__they__| their
 
-### `yarn eject`
+`Possessi Pronous` + Noun + sing | Plural
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Example:
+* My teacher is Leonardo
+* My teachers are Happy
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Possessive Nouns
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+* The car of Alexandra is white <span style="color:red">ERROR</span>.
+* Alexandra's __[her]__ car is white
+* Brian's __[his]__ girlfriend is Christina
+* Tefy, Grace, Brenda's __[their]__ teacher is Leonardo
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+<https://www.leonardomedina.com.ec>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<https://www.markdownguide.org/cheat-sheet/>
