@@ -18,7 +18,7 @@
 ## Demonstrative Pronouns
 
 ## Rules for Plural nouns
-
+    
 ## Rules for Plural nouns
 
 ## Adjetives
@@ -60,10 +60,12 @@ Example:
 
 ### Possessive Nouns
 
-* The car of Alexandra is white <span style="color:red">ERROR</span>.
+* The car of Alexandra is white 🔴ERROR
 * Alexandra's __[her]__ car is white
 * Brian's __[his]__ girlfriend is Christina
 * Tefy, Grace, Brenda's __[their]__ teacher is Leonardo
+
+En su barba vivían tres <span style="color:red">cardenales</span>.
 
 
 <https://www.leonardomedina.com.ec>
