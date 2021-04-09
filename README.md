@@ -70,6 +70,12 @@ Example:
 * Grace's mother is Marilyn
 * Mathews' computer is black
 
+```diff
+- red
++ green
+! orange
+# gray
+```
 
 
 
