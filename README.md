@@ -61,11 +61,20 @@ Example:
 ### Possessive Nouns
 
 * The car of Alexandra is white 🔴ERROR
-* Alexandra's __[her]__ car is white
-* Brian's __[his]__ girlfriend is Christina
-* Tefy, Grace, Brenda's __[their]__ teacher is Leonardo
+* Alexandra's __<font color="green">[her]</font>__ car is white
+* Brian's __<font color="green">[his]</font>__ girlfriend is Christina
+* Tefy, Grace, Brenda's __<font color="green">[their]</font>__ teacher is Leonardo
 
-#=- Stationary Store Moves -=#
+### Same sound with a letter S
+* Luis' car is expensive
+* Grace's mother is Marilyn
+* Mathews' computer is black
+
+
+
+
+
+
 
 <https://www.leonardomedina.com.ec>
 
